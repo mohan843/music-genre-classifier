@@ -1,0 +1,3 @@
+$ python classifier.py --tempo-bpm 128 --danceability 0.82 --energy 0.86 --acousticness 0.08
+Training accuracy: 68.8%
+Predicted music genre: pop
